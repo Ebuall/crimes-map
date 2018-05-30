@@ -1,0 +1,10 @@
+/node_modules
+/npm
+/.cache
+/dist
+/platforms
+/plugins
+/www
+
+# OS X
+.DS_Store

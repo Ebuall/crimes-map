@@ -1,0 +1,25 @@
+#map {
+  height: calc(98vh - 40px);
+  width: 98vw;
+}
+
+#selects {
+  display: flex;
+}
+
+#datepicker, #category {
+  width: 50%;
+}
+
+.category-label {
+  /* margin-left: 25px; */
+}
+
+.category-select {
+  height: 29px;
+  width: 100%;
+}
+
+.react-date-picker__calendar {
+  z-index: 1;
+}
